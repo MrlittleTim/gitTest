@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("222222");
         System.out.println("dev 333");
         System.out.println("main");
+        System.out.println("dev");
     }
 }
