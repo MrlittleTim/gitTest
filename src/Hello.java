@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("dev 333");
         System.out.println("main");
         System.out.println("dev");
+        System.out.println("mian omline test");
     }
 }
